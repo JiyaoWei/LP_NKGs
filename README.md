@@ -1,34 +1,37 @@
 # 💥A Survey of Link Prediction in N-ary Knowledge Graphs
 
-This is the repository for the survey paper: A Survey of Link Prediction in N-ary Knowledge Graphs. Recent efforts have increasingly focused on link prediction in NKGs.
+Welcome to the official repository of our survey paper: **"A Survey of Link Prediction in N-ary Knowledge Graphs"**. In recent years, there has been a surge of interest in **N-ary Knowledge Graphs (NKGs)**, which generalize traditional binary knowledge graphs by capturing richer and more complex multi-entity relations. Among the key tasks in this domain, **link prediction** plays a fundamental role in knowledge inference and graph completion.
 <p align="center">
-<img src="figures/NKG_articles.png" alt="Types-of-conflicts" width="600" /> <br>
+<img src="figures/NKG_articles.png" alt="Types-of-conflicts" width="600" /> <br><em>Fig 1. Growth in link prediction research for NKGs over the years</em>
 </p> 
 
-Despite the rapid development of link prediction methods for NKGs, with nearly 50 methods proposed, existing surveys only briefly mention it, lacking a comprehensive and in-depth analysis. More statistics of existing surveys are related to traditional KGs, including general KG, temporal KG, etc. Therefore, we completed this survey of link prediction in NKGs.
+Despite the increasing number of proposed methods — with nearly **50 distinct approaches** — existing surveys either marginally mention link prediction for NKGs or lack systematic and comprehensive analysis. In contrast, prior surveys focus more heavily on **binary KGs**, **temporal KGs**, or **multi-modal KGs**, leaving a gap in the literature.
+
+To fill this gap, we present the **first in-depth and dedicated survey** on link prediction techniques for NKGs. Our survey covers the full spectrum of modeling paradigms, formalizations, and evaluation trends in this area.
 
 <p align="center">
-<img src="figures/Survey_articles.png" alt="Types-of-conflicts" width="600" /> <br>
+<img src="figures/Survey_articles.png" alt="Types-of-conflicts" width="600" /> <br> <em>Fig 2. Scope of existing surveys compared to our NKG-focused survey</em> 
 </p> 
 
 ## 🚀 Preliminary
 
 ### 🌟 Definition
-**KG**: A traditional structure consisting of binary facts (triples) of the form , linking a head entity to a tail entity via a relation.
+- **KG**: A traditional structure consisting of binary facts (triples) of the form , linking a head entity to a tail entity via a relation.
 
-**NKG**: A generalized structure that supports n-ary facts, each involving more than two entities, allowing richer semantic representation.
+- **NKG**: A generalized structure that supports n-ary facts, each involving more than two entities, allowing richer semantic representation.
 
-**Link Prediction in NKGs**: The task of inferring missing entities or roles in existing n-ary facts.
+- **Link Prediction in NKGs**: The task of inferring missing entities or roles in existing n-ary facts.
 
 ### 🔍 Formalizations of N-ary Facts
-**Hyperedge formalization**: Represents facts as fixed-size, ordered tuples.
+There are three dominant formalizations used to represent n-ary facts:
+- **Hyperedge formalization**: Represents facts as fixed-size, ordered tuples.
 
-**Role-value pair formalization**: Represents facts as unordered sets of role-entity mappings.
+- **Role-value pair formalization**: Represents facts as unordered sets of role-entity mappings.
 
-**Hyper-relational formalization**: Represents facts as a primary triple with additional qualifiers.
+- **Hyper-relational formalization**: Represents facts as a primary triple with additional qualifiers.
 
 <p align="center">
-<img src="figures/NKG_formulation.jpg" alt="Types-of-conflicts" width="600" /> <br>
+<img src="figures/NKG_formulation.jpg" alt="Types-of-conflicts" width="600" /> <br><em>Fig 3. Different formalization strategies for NKGs</em>
 </p> 
 
 ## ❤️ Recap of Methods
@@ -40,7 +43,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 - **Neural Network-based Methods:** These methods leverage neural networks to encode NKGs and perform link prediction with learned element representations. They can be categorized into four types: FCN-based, CNNbased, Transformer-based, and GNN-based methods. Each type employs a corresponding neural network architecture to encode n-ary facts.
 
 <p align="center">
-<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="800" /> <br>
+<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="800" /> <br>Fig 4. Taxonomy of NKG link prediction methods</em>
 </p> 
 
 ## 🚀 Table of Contents
