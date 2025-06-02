@@ -2,7 +2,7 @@
 
 This is the repository for the survey paper: A Survey of Link Prediction in N-ary Knowledge Graphs. Recent efforts have increasingly focused on link prediction in NKGs.
 <p align="center">
-<img src="./figures/NKG_articles.png" alt="Types-of-conflicts" width="600" /> <br>
+<img src="figures/NKG_articles.png" alt="Types-of-conflicts" width="600" /> <br>
 </p> 
 
 Despite the rapid development of link prediction methods for NKGs, with nearly 50 methods proposed, existing surveys only briefly mention it, lacking a comprehensive and in-depth analysis. More statistics of existing surveys are related to traditional KGs, including general KG, temporal KG, etc. Therefore, we completed this survey of link prediction in NKGs.
