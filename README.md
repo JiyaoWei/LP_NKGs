@@ -8,7 +8,7 @@ This is the repository for the survey paper: A Survey of Link Prediction in N-ar
 Despite the rapid development of link prediction methods for NKGs, with nearly 50 methods proposed, existing surveys only briefly mention it, lacking a comprehensive and in-depth analysis. More statistics of existing surveys are related to traditional KGs, including general KG, temporal KG, etc. Therefore, we completed this survey of link prediction in NKGs.
 
 <p align="center">
-<img src="./figures/Survey_articles.png" alt="Types-of-conflicts" width="600" /> <br>
+<img src="figures/Survey_articles.png" alt="Types-of-conflicts" width="600" /> <br>
 </p> 
 
 ## 🚀 Preliminary
@@ -28,7 +28,7 @@ Despite the rapid development of link prediction methods for NKGs, with nearly 5
 **Hyper-relational formalization**: Represents facts as a primary triple with additional qualifiers.
 
 <p align="center">
-<img src="./figures/NKG_formulation.jpg" alt="Types-of-conflicts" width="600" /> <br>
+<img src="figures/NKG_formulation.jpg" alt="Types-of-conflicts" width="600" /> <br>
 </p> 
 
 ## ❤️ Recap of Methods
@@ -40,7 +40,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 - **Neural Network-based Methods:** These methods leverage neural networks to encode NKGs and perform link prediction with learned element representations. They can be categorized into four types: FCN-based, CNNbased, Transformer-based, and GNN-based methods. Each type employs a corresponding neural network architecture to encode n-ary facts.
 
 <p align="center">
-<img src="./figures/NKG_methods.png" alt="Types-of-conflicts" width="800" /> <br>
+<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="800" /> <br>
 </p> 
 
 ## 🚀 Table of Contents
