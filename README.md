@@ -6,7 +6,7 @@ Welcome to the official repository of our survey paper: **"A Survey of Link Pred
 </p> 
 
 Despite the increasing number of proposed methods — with nearly **50 distinct approaches** — existing surveys either marginally mention link prediction for NKGs or lack systematic and comprehensive analysis. In contrast, prior surveys focus more heavily on **binary KGs**, **temporal KGs**, or **multi-modal KGs**, leaving a gap in the literature.
-<div style="max-width: 700px; margin: 0 auto;">
+<div style="max-width: 900px; margin: 0 auto;">
 
 <p align="center"><em>Tab 1. Comparison of Existing Surveys on Link Prediction in KGs with Our Survey</em></p>
 <p align="center"><em>“–” indicates that the survey does not introduce methods for link prediction in NKGs.</em></p>
@@ -145,7 +145,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 - **Neural Network-based Methods:** These methods leverage neural networks to encode NKGs and perform link prediction with learned element representations. They can be categorized into four types: FCN-based, CNNbased, Transformer-based, and GNN-based methods. Each type employs a corresponding neural network architecture to encode n-ary facts.
 
 <p align="center">
-<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="800" /> <br>Fig 4. Taxonomy of NKG link prediction methods</em>
+<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="900" /> <br>Fig 4. Taxonomy of NKG link prediction methods</em>
 </p> 
 
 ## 🚀 Table of Contents
