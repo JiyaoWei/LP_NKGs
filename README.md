@@ -7,6 +7,27 @@ Welcome to the official repository of our survey paper: **"A Survey of Link Pred
 
 Despite the increasing number of proposed methods — with nearly **50 distinct approaches** — existing surveys either marginally mention link prediction for NKGs or lack systematic and comprehensive analysis. In contrast, prior surveys focus more heavily on **binary KGs**, **temporal KGs**, or **multi-modal KGs**, leaving a gap in the literature.
 
+### Table: Comparison of Existing Surveys on Link Prediction in KGs with Our Survey
+
+“–” indicates that the survey does not introduce methods for link prediction in NKGs.
+
+| **Surveys** | **Years** | **KG types** | **Contents related to link prediction in NKGs** |
+|-------------|-----------|--------------|------------------------------------------------|
+| Wang et al. (2017), Nguyen et al. (2017), Dai et al. (2020), Ji et al. (2021), Zou et al. (2020), Chen et al. (2020a, 2020b), Chen et al. (2021), Rossi et al. (2021), Wang et al. (2021) | Before 2021 | General KG | – |
+| Zamini et al. (2022), Ye et al. (2022) | 2022 | General KG | – |
+| Chen et al. (2022) | 2022 | Temporal KG | – |
+| Zhu et al. (2022) | 2022 | Multi-modal KG | – |
+| Shen et al. (2022) | 2022 | General KG, Temporal KG, and NKG | Contain task definition, 4 methods, and 2 benchmarks |
+| Guan et al. (2022) | 2022 | General KG and NKG | Contain task definition and 4 methods |
+| Liang et al. (2022) | 2022 | General, Sparse, and Multi-modal KG | – |
+| Ferrari et al. (2022), Hubert et al. (2023) | 2023 | General KG | – |
+| Zhang et al. (2022), Braken et al. (2023), Ma et al. (2023), Chen et al. (2023a, 2023b) | 2023 | Sparse KG | – |
+| Jiang et al. (2023) | 2023 | General, Sparse, and Temporal KG | – |
+| Cai et al. (2022), Wang et al. (2023) | 2023 | Temporal KG | – |
+| Peng et al. (2023), Chen et al. (2023c) | 2023 | Multi-modal KG | – |
+| Cao et al. (2024), Ge et al. (2024), Pote et al. (2024), Meng et al. (2024) | 2024 | General KG | – |
+| **Ours** | 2024 | NKG | Contain task definition, nearly 50 methods, more than 10 benchmarks, applications, and future prospect |
+
 To fill this gap, we present the **first in-depth and dedicated survey** on link prediction techniques for NKGs. Our survey covers the full spectrum of modeling paradigms, formalizations, and evaluation trends in this area.
 
 <p align="center">
