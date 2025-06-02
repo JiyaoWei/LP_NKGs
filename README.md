@@ -9,7 +9,7 @@ Despite the increasing number of proposed methods — with nearly **50 distinct 
 
 <p align="center"><em>Table: Comparison of Existing Surveys on Link Prediction in KGs with Our Survey</em></p>
 
-<p align="center"><em>“–” indicates that the survey does not introduce methods for link prediction in NKGs.</em></p
+<p align="center"><em>“–” indicates that the survey does not introduce methods for link prediction in NKGs.</em></p>
 
 | **Surveys** | **Years** | **KG types** | **Contents related to link prediction in NKGs** |
 |-------------|-----------|--------------|------------------------------------------------|
