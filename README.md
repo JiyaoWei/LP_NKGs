@@ -145,7 +145,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 - **Neural Network-based Methods:** These methods leverage neural networks to encode NKGs and perform link prediction with learned element representations. They can be categorized into four types: FCN-based, CNNbased, Transformer-based, and GNN-based methods. Each type employs a corresponding neural network architecture to encode n-ary facts.
 
 <p align="center">
-<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="900" /> <br>Fig 4. Taxonomy of NKG link prediction methods</em>
+<img src="figures/NKG_methods.png" alt="Types-of-conflicts" width="900" /> <br><em>Fig 4. Taxonomy of NKG link prediction methods</em>
 </p> 
 
 ## 🚀 Table of Contents
