@@ -1,4 +1,5 @@
 <div style="max-width: 1000px; margin: 0 auto;">
+  
 # 💥A Survey of Link Prediction in N-ary Knowledge Graphs
 
 Welcome to the official repository of our survey paper: **"A Survey of Link Prediction in N-ary Knowledge Graphs"**. In recent years, there has been a surge of interest in **N-ary Knowledge Graphs (NKGs)**, which generalize traditional binary knowledge graphs by capturing richer and more complex multi-entity relations. Among the key tasks in this domain, **link prediction** plays a fundamental role in knowledge inference and graph completion.
@@ -223,4 +224,5 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 13. Inductive link prediction on n-ary relational facts via semantic hypergraph reasoning, _Yin et al._, **SIGKDD 2025**, [[Paper](https://dl.acm.org/doi/10.1145/3690624.3709195)]
 14. When true becomes false: Few-shot link prediction beyond binary relations through mining false positive entities, _Zhang et al._, **MM 2022**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3547981)]
 15. Few-shot link prediction on n-ary facts., _Wei et al._, **COLING 2024**, [[Paper](https://aclanthology.org/2024.lrec-main.632.pdf)]
+
 <\div>
