@@ -6,7 +6,6 @@ Welcome to the official repository of our survey paper: **"A Survey of Link Pred
 </p> 
 
 Despite the increasing number of proposed methods — with nearly **50 distinct approaches** — existing surveys either marginally mention link prediction for NKGs or lack systematic and comprehensive analysis. In contrast, prior surveys focus more heavily on **binary KGs**, **temporal KGs**, or **multi-modal KGs**, leaving a gap in the literature.
-
 <p align="center"><em>Table: Comparison of Existing Surveys on Link Prediction in KGs with Our Survey</em></p>
 <p align="center"><em>“–” indicates that the survey does not introduce methods for link prediction in NKGs.</em></p>
 
@@ -28,9 +27,8 @@ Despite the increasing number of proposed methods — with nearly **50 distinct 
 | **Ours** | 2024 | NKG | Contain task definition, nearly 50 methods, more than 10 benchmarks, applications, and future prospect |
 
 To fill this gap, we present the **first in-depth and dedicated survey** on link prediction techniques for NKGs. Our survey covers the full spectrum of modeling paradigms, formalizations, and evaluation trends in this area.
-
 <p align="center">
-<img src="figures/Survey_articles.png" alt="Types-of-conflicts" width="600" /> <br> <em>Fig 2. Scope of existing surveys compared to our NKG-focused survey</em> 
+<img src="figures/Survey_articles.png" alt="Types-of-conflicts" width="600" /> <br> <em>Fig 2. Scope of existing surveys.</em> 
 </p> 
 
 ## 🚀 Preliminary
