@@ -220,13 +220,14 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 8. Hypercl: A contrastive learning framework for hyper-relational knowledge graph embedding with hierarchical ontology, _Lu et al._, **ACL 2024**, [[Paper](https://aclanthology.org/2024.findings-acl.171.pdf)]
 9. Temporal knowledge graph reasoning based on n-tuple modeling, _Hou et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.77/)]
 10. Exploring link prediction over hyper-relational temporal knowledge graphs enhanced with time-invariant relational knowledge, _Ding et al._, **EMNLP 2024**, [[Paper](https://aclanthology.org/2024.findings-emnlp.20.pdf)]
-11. Improving inductive link prediction using hyper-relational facts, _Ali et al._, **IJCAI 2022**, [[Paper](https://www.ijcai.org/proceedings/2022/0731.pdf)]
-12. Inductive link prediction in n-ary knowledge graphs, _Wei et al._, **COLING 2025**, [[Paper](https://aclanthology.org/2025.coling-main.595.pdf)]
-13. Inductive link prediction on n-ary relational facts via semantic hypergraph reasoning, _Yin et al._, **SIGKDD 2025**, [[Paper](https://dl.acm.org/doi/10.1145/3690624.3709195)]
-14. When true becomes false: Few-shot link prediction beyond binary relations through mining false positive entities, _Zhang et al._, **MM 2022**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3547981)]
-15. Few-shot link prediction on n-ary facts, _Wei et al._, **COLING 2024**, [[Paper](https://aclanthology.org/2024.lrec-main.632.pdf)]
-16. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs, _Lu et al._, **ACL 2025**, [[Paper](https://www.fst.um.edu.mo/personal/wp-content/uploads/2025/05/2025_ACL_HyperFM.pdf)]
-17. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement, _Li et al._, **WWW 2025**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714907)]
+11. RHKH: Relational Hypergraph Neural Network for Link Prediction on N-ary Knowledge Hypergraph, _Ding et al._, **MM 2024**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681706)]
+12. Improving inductive link prediction using hyper-relational facts, _Ali et al._, **IJCAI 2022**, [[Paper](https://www.ijcai.org/proceedings/2022/0731.pdf)]
+13. Inductive link prediction in n-ary knowledge graphs, _Wei et al._, **COLING 2025**, [[Paper](https://aclanthology.org/2025.coling-main.595.pdf)]
+14. Inductive link prediction on n-ary relational facts via semantic hypergraph reasoning, _Yin et al._, **SIGKDD 2025**, [[Paper](https://dl.acm.org/doi/10.1145/3690624.3709195)]
+15. When true becomes false: Few-shot link prediction beyond binary relations through mining false positive entities, _Wang et al._, **MM 2022**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3547981)]
+16. Few-shot link prediction on n-ary facts, _Wei et al._, **COLING 2024**, [[Paper](https://aclanthology.org/2024.lrec-main.632.pdf)]
+17. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs, _Lu et al._, **ACL 2025**, [[Paper](https://www.fst.um.edu.mo/personal/wp-content/uploads/2025/05/2025_ACL_HyperFM.pdf)]
+18. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement, _Li et al._, **WWW 2025**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714907)]
 
 
 </div>
