@@ -183,6 +183,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 1. Knowledge hypergraphs: prediction beyond binary relations, _Fatemi et al._, **IJCAI 2021**, [[Paper](https://www.ijcai.org/proceedings/2020/0303.pdf)]
 2. Generalizing tensor decomposition for n-ary relational knowledge bases, _Liu et al._, **WWW 2020**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380188)]
 3. Searching to sparsify tensor decomposition for n-ary relational data, _Di et al._, **WWW 2021**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449853)]
+4. GAHE: Geometry-Aware Embedding for Hyper-Relational Knowledge Graph Representation, _Cao et al._, **TOMM 2025**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3733602)]
 
 ## Type III: Neural Network-based Methods
 
