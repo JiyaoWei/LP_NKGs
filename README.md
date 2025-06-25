@@ -199,6 +199,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 5. Hyconve: A novel embedding model for knowledge hypergraph link prediction with convolutional neural networks, _Wang et al._, **WWW 2023**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583256)]
 6. Hje: joint convolutional representation learning for knowledge hypergraph completion, _Li et al._, **TKDE 2024**, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10436025)]
 7. Hycube: Efficient knowledge hypergraph 3d circular convolutional embedding, _Li et al._, **TKDE 2024**, [[Paper](https://dl.acm.org/doi/10.1109/TKDE.2025.3531372)]
+8. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction, _Li et al._, **WWW 2025**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714549)]
 
 ### I-iii: Transformer-based Methods
 1. Improving hyper-relational knowledge graph completion, _Yu et al._, **DASFAA 2023**, [[Paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-30672-3_51)]
@@ -206,7 +207,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 3. Representation learning on hyperrelational and numeric knowledge graphs with transformers, _Chung et al._, **SIGKDD 2023**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599490)]
 4. Integrating structure and text for enhancing hyper-relational knowledge graph representation via structure soft prompt tuning, _Li et al._, **CIKM 2024**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679698)]
 5. Robust link prediction over noisy hyper-relational knowledge graphs via active learning, _Yu et al._, **WWW 2024**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645686)]
-6. Structure-Aware Transformer for hyper-relational knowledge graph completion., _Wei et al._, **ISWC 2025**, [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425006141)]
+6. Structure-Aware Transformer for hyper-relational knowledge graph completion., _Wang et al._, **ISWC 2025**, [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425006141)]
 
 ### I-iv: GNN-based Methods
 1. Message passing for hyper-relational knowledge graphs, _Galkin et al._, **EMNLP 2020**, [[Paper](https://aclanthology.org/2020.emnlp-main.596.pdf)]
