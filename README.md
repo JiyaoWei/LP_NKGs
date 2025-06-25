@@ -226,6 +226,7 @@ We investigate **three** types of link prediction methods in NKGs: Spatial Mappi
 14. When true becomes false: Few-shot link prediction beyond binary relations through mining false positive entities, _Zhang et al._, **MM 2022**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3547981)]
 15. Few-shot link prediction on n-ary facts, _Wei et al._, **COLING 2024**, [[Paper](https://aclanthology.org/2024.lrec-main.632.pdf)]
 16. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs, _Lu et al._, **ACL 2025**, [[Paper](https://www.fst.um.edu.mo/personal/wp-content/uploads/2025/05/2025_ACL_HyperFM.pdf)]
+17. Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement, _Li et al._, **WWW 2025**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714907)]
 
 
 </div>
